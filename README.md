@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
 Aplicação simples de um desafio utilizando React.\
-O objetivo é criar uma aplicação onde o usuário clica em algum lugar da tela,
-após o clique, é renderizado um círculo aonde foi clicado.\
+O objetivo é criar uma aplicação onde o usuário clica em algum lugar da página,
+após o clique, é renderizado um círculo no local clicado.\
 A cada clique é possível ir criando outros círculos.\
-Também faz parte da aplicação a crianção de duas funções, uma de "desfazer" e um outro de "refazer", nessa aplicação, foram criados dois botões.
+Também faz parte da aplicação a crianção de duas funções, uma de "desfazer" e uma outra de "refazer". Nessa aplicação, foram criados dois botões para a execução das funções.
 ## Available Scripts
 
 In the project directory, you can run:
