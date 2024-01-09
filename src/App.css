@@ -1,7 +1,10 @@
-
+*{
+  margin:0;
+  padding:0;
+}
 
 #page {
-  background: red;
+  background: rgb(243, 238, 238);
   display: block;
   width: 100%;
   height: 100%;
@@ -11,12 +14,24 @@
   left: 0;
 }
 
-h1{
+h1{ /* Ver depois pq o h1 oculpa o espaço da página inteira*/
   text-align: center;
-  color:aliceblue;
+  color:rgb(13, 66, 112);
   font-family: 'Trebuchet MS';
-  background-color: aquamarine;
-  margin-left: 100px;
-  margin-right: 100px;
+  background-color: rgb(255, 236, 127);
+  margin-left: 280px;
+  margin-right: 280px;
   
+}
+
+.dot{
+  display: block;
+  height: 10px;
+  width: 10px;
+  background: red;
+
+  position: absolute;
+  top: 100px;
+  left: 100px;
+
 }
