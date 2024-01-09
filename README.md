@@ -6,7 +6,7 @@
 A simples application of a challenge using React.\
 The aim is create a application where the user click in somewhere in the page, after the click, is rendered a circle in the spot clicked.\
 With every click, a new circles can be created.\
-The application also required a creation a two functions, one of "undo" and another of "redo". In this application, two buttons were created to perform the functions.\
+The application also required a creation a two functions, one of "undo" and another of "redo". In this application, two buttons were created to perform the functions.
 
 
 Aplicação simples de um desafio utilizando React.\
