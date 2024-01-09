@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Aplicação simples de um desafio em react.
+O objetivo é criar uma aplicação onde o usuário clica em algum lugar da tela,
+após o clique, esse clique é destacado na tela
 ## Available Scripts
 
 In the project directory, you can run:
