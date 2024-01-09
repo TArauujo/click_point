@@ -3,16 +3,16 @@
 
 ##Explaining the challenge
 
-A simples application of a challenge using React
-The aim is create a application where the user click in somewhere in the page, after the click, is rendered a circle in the spot clicked
-With every click, a new circles can be created
+A simples application of a challenge using React.
+The aim is create a application where the user click in somewhere in the page, after the click, is rendered a circle in the spot clicked;
+With every click, a new circles can be created;
 The application also required a creation a two functions, one of "undo" and another of "redo". In this application, two buttons were created to perform the functions.
 
 
 Aplicação simples de um desafio utilizando React.
 O objetivo é criar uma aplicação onde o usuário clica em algum lugar da página,
-após o clique, é renderizado um círculo no local clicado.
-A cada clique, novos círculos podem ser adicionados.
+após o clique, é renderizado um círculo no local clicado;
+A cada clique, novos círculos podem ser adicionados;
 A aplicação também exige a criação de duas funções, uma de "desfazer" e uma outra de "refazer". Nessa aplicação, foram criados dois botões para a execução das funções.
 ## Available Scripts
 
