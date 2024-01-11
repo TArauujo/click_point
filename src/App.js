@@ -75,7 +75,7 @@ function App() {
         <span 
           key={index} /* Usando o 'index' para não se repetir valores*/
           className='dot'
-          style={{left: item.clientX, top: item.clientY}}
+          style={{left: item.clientX, top: item.clientY, borderRadius: '50%'}}
         /> 
       ))}
       
